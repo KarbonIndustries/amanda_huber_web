@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+#REWRITE RULES
+#RewriteRule ^view\/home/?$										/index.php									[L]
